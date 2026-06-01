@@ -33,10 +33,6 @@ Target:
 
 Lasso Regression extends linear regression by adding an L1 penalty term to the objective function.
 
-Mathematically:
-
-RSS + λΣ|β|
-
 Unlike Ridge Regression, Lasso can shrink coefficients completely to zero, effectively removing less important features from the model.
 
 ---
